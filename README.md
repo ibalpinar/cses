@@ -1,1 +1,3 @@
 # cses
+
+Solutions of the algorithms available on https://cses.fi/ in various languages from my perspective...
