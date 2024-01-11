@@ -10,7 +10,7 @@ r.on('line', function (line) {
     var vals = line.split(" ");
     var n = parseInt(vals[0]);
     var output = '';
-    
+
     if(n >= 1 && n <= 1000000){
       output += n + ' ';
       while(n != 1){
@@ -24,7 +24,7 @@ r.on('line', function (line) {
    }else{
       console.log("'n' is not in the right range ->" + n);
    }
-   
+
    console.log(output);
    output = '';
 });
