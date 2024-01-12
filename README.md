@@ -14,7 +14,7 @@ If you want to have fun, let's solve some algorithmic problems together.
 
 | Category              | Solved        |
 |-----------------------|:-------------:|
-| Introductory Problems |     2/19      |
+| Introductory Problems |     3/19      |
 | Sorting and Searching |     0/35      |
 | Dynamic Programming   |     0/19      |
 | Graph Algorithms      |     0/36      |
@@ -25,7 +25,7 @@ If you want to have fun, let's solve some algorithmic problems together.
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24      |
 | Additional Problems   |     0/77      |
-| **Total**             |  **2/300**    |
+| **Total**             |  **3/300**    |
 
 
 ## Introductory Problems
