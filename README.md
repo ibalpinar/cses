@@ -14,7 +14,7 @@ If you want to have fun, let's solve some algorithmic problems together.
 
 | Category              | Solved        |
 |-----------------------|:-------------:|
-| Introductory Problems |     1/19      |
+| Introductory Problems |     2/19      |
 | Sorting and Searching |     0/35      |
 | Dynamic Programming   |     0/19      |
 | Graph Algorithms      |     0/36      |
@@ -25,12 +25,12 @@ If you want to have fun, let's solve some algorithmic problems together.
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24      |
 | Additional Problems   |     0/77      |
-| **Total**             |  **1/300**    |
+| **Total**             |  **2/300**    |
 
 
 ## Introductory Problems
 1. [Weird Algorithm](/introductory-problems/weird-algorithm/js/app.js)
-1. Missing Number
+1. [Missing Number](/introductory-problems/missing-number/app.js)
 1. Repetitions
 1. Increasing Array
 1. Permutations
