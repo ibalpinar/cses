@@ -31,7 +31,7 @@ If you want to have fun, let's solve some algorithmic problems together.
 ## Introductory Problems
 1. [Weird Algorithm](/introductory-problems/weird-algorithm/js/app.js)
 1. [Missing Number](/introductory-problems/missing-number/app.js)
-1. [Repetitions](/introductory-problems/repititions/app.js)
+1. [Repetitions](/introductory-problems/repetitions/app.js)
 1. Increasing Array
 1. Permutations
 1. Number Spiral
