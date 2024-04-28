@@ -29,10 +29,10 @@ If you want to have fun, let's solve some algorithmic problems together.
 
 
 ## Introductory Problems
-1. [Weird Algorithm](/introductory-problems/weird-algorithm/js/app.js)
-1. [Missing Number](/introductory-problems/missing-number/app.js)
-1. [Repetitions](/introductory-problems/repetitions/app.js)
-1. Increasing Array
+1. [Weird Algorithm](/01-introductory-problems/01-weird-algorithm/js/app.js)
+1. [Missing Number](/01-introductory-problems/02-missing-number/app.js)
+1. [Repetitions](/01-introductory-problems/03-repetitions/app.js)
+1. [Increasing Array](/01-introductory-problems/04-increasing-array/app.js)
 1. Permutations
 1. Number Spiral
 1. Two Knights
