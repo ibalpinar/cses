@@ -5,7 +5,7 @@ You are given a DNA sequence: a string consisting of characters A, C, G, and T. 
 
 **Input**
 
-The only input line contains a string of n characters.
+The only input line contains a string of $n$ characters.
 
 **Output**
 
@@ -13,14 +13,12 @@ Print one integer: the length of the longest repetition.
 
 **Constraints**
 
-1 $\leq$ n $\leq$ 10^6
+ - 1 $\leq$ n $\leq$ $10^{6}$
 
 **Example**
 
-Input:
-
+Input:<br />
 ATTCGGGA
 
-Output:
-
+Output:<br />
 3
