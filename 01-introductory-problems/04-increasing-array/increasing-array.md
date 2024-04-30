@@ -17,9 +17,9 @@ Print the minimum number of moves.
 
 **Constraints**
 
- - 1 $\leq$ $n$ $\leq$ 2 $\cdot$ 10^5
+ - 1 $\leq$ $n$ $\leq$ 2 $\cdot$ $10^{5}$
 
- - 1 $\leq$ $x_{i}$ $\leq$ 10^9
+ - 1 $\leq$ $x_{i}$ $\leq$ $10^{9}$
 
 **Example**
 
