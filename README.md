@@ -29,12 +29,12 @@ If you want to have fun, let's solve some algorithmic problems together.
 
 
 ## Introductory Problems
-1. [Weird Algorithm](/01-introductory-problems/01-weird-algorithm/js/app.js)
-1. [Missing Number](/01-introductory-problems/02-missing-number/app.js)
-1. [Repetitions](/01-introductory-problems/03-repetitions/app.js)
-1. [Increasing Array](/01-introductory-problems/04-increasing-array/app.js)
-1. [Permutations](/01-introductory-problems/05-permutations/app.js)
-1. Number Spiral
+1. [Weird Algorithm](/01-introductory-problems/01-weird-algorithm/question-weird-algorithm.md)
+1. [Missing Number](/01-introductory-problems/02-missing-number/question-missing-number.md)
+1. [Repetitions](/01-introductory-problems/03-repetitions/question-repetitions.md)
+1. [Increasing Array](/01-introductory-problems/04-increasing-array/question-increasing-array.md)
+1. [Permutations](/01-introductory-problems/05-permutations/question-permutations.md)
+1. [Number Spiral](/01-introductory-problems/06-number-spiral/question-number-spiral.md)
 1. Two Knights
 1. Two Sets
 1. Bit Strings
