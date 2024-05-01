@@ -25,3 +25,5 @@ Input:<br />
 
 Output:<br />
 4
+
+[Solution](/01-introductory-problems/02-missing-number/app.js)

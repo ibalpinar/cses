@@ -31,3 +31,5 @@ Input:<br />
 
 Output:<br />
 NO SOLUTION
+
+[Solution](/01-introductory-problems/05-permutations/app.js)

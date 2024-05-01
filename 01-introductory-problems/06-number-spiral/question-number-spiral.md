@@ -34,3 +34,5 @@ Output:<br />
 8<br />
 1<br />
 15
+
+[Solution](/01-introductory-problems/06-number-spiral/app.js)

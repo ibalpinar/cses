@@ -24,3 +24,5 @@ Input:<br />
 
 Output:<br />
 3 10 5 16 8 4 2 1
+
+[Solution](/01-introductory-problems/01-weird-algorithm/app.js)

@@ -22,3 +22,5 @@ ATTCGGGA
 
 Output:<br />
 3
+
+[Solution](/01-introductory-problems/03-repetitions/app.js)

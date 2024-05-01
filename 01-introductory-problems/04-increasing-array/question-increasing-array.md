@@ -29,3 +29,5 @@ Input:<br/>
 
 Output:<br/>
 5
+
+[Solution](/01-introductory-problems/04-increasing-array/app.js)
