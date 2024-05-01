@@ -1,5 +1,5 @@
-**Time limit**: 1.00 s
-**Memory limit**: 512 MB
+**Time limit:** 1.00 s
+**Memory limit:** 512 MB
 
 You are given an array of $n$ integers. You want to modify the array so that it is increasing, i.e., every element is at least as large as the previous element.
 

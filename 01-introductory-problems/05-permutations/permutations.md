@@ -1,5 +1,5 @@
-**Time limit**: 1.00 s
-**Memory limit**: 512 MB
+**Time limit:** 1.00 s
+**Memory limit:** 512 MB
 
 A permutation of integers 1, 2,$\ldots$, $n$ is called $beautiful$ if there are no adjacent elements whose difference is 1.
 
