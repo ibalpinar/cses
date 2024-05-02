@@ -29,3 +29,5 @@ Output:<br />
 550<br />
 1056<br />
 1848
+
+[Solution](/01-introductory-problems/07-two-knights/app.js)
