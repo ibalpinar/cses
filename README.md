@@ -35,7 +35,7 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Increasing Array](/01-introductory-problems/04-increasing-array/question-increasing-array.md)
 1. [Permutations](/01-introductory-problems/05-permutations/question-permutations.md)
 1. [Number Spiral](/01-introductory-problems/06-number-spiral/question-number-spiral.md)
-1. Two Knights
+1. [Two Knights](/01-introductory-problems/07-two-knights/question-two-knights.md)
 1. Two Sets
 1. Bit Strings
 1. Trailing Zeros
