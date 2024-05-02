@@ -29,11 +29,11 @@ If you want to have fun, let's solve some algorithmic problems together.
 
 
 ## Introductory Problems
-1. [Weird Algorithm](/01-introductory-problems/01-weird-algorithm/question-weird-algorithm.md)
-1. [Missing Number](/01-introductory-problems/02-missing-number/question-missing-number.md)
-1. [Repetitions](/01-introductory-problems/03-repetitions/question-repetitions.md)
-1. [Increasing Array](/01-introductory-problems/04-increasing-array/question-increasing-array.md)
-1. [Permutations](/01-introductory-problems/05-permutations/question-permutations.md)
+1. [Weird Algorithm](/01-introductory-problems/01-weird-algorithm/question-weird-algorithm.md) <img src="../cses/circle_green_checkmark.png" style="width:15px; height:15px;">
+1. [Missing Number](/01-introductory-problems/02-missing-number/question-missing-number.md) <img src="../cses/circle_green_checkmark.png" style="width:15px; height:15px;">
+1. [Repetitions](/01-introductory-problems/03-repetitions/question-repetitions.md) <img src="../cses/circle_green_checkmark.png" style="width:15px; height:15px;">
+1. [Increasing Array](/01-introductory-problems/04-increasing-array/question-increasing-array.md) <img src="../cses/circle_green_checkmark.png" style="width:15px; height:15px;">
+1. [Permutations](/01-introductory-problems/05-permutations/question-permutations.md) <img src="../cses/circle_green_checkmark.png" style="width:15px; height:15px;">
 1. [Number Spiral](/01-introductory-problems/06-number-spiral/question-number-spiral.md)
 1. [Two Knights](/01-introductory-problems/07-two-knights/question-two-knights.md)
 1. Two Sets
