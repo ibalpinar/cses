@@ -36,8 +36,8 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Permutations](/01-introductory-problems/05-permutations/question-permutations.md) <img src="../cses/circle_green_checkmark.png" style="width:15px; height:15px;">
 1. [Number Spiral](/01-introductory-problems/06-number-spiral/question-number-spiral.md)
 1. [Two Knights](/01-introductory-problems/07-two-knights/question-two-knights.md)
-1. Two Sets
-1. Bit Strings
+1. [Two Sets](/01-introductory-problems/08-two-sets/question-two-sets.md)
+1. [Bit Strings](/01-introductory-problems/09-bit-strings/question-bit-strings.md)
 1. Trailing Zeros
 1. Coin Piles
 1. Palindrome Reorder
