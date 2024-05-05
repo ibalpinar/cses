@@ -38,9 +38,9 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Two Knights](/01-introductory-problems/07-two-knights/question-two-knights.md)
 1. [Two Sets](/01-introductory-problems/08-two-sets/question-two-sets.md)
 1. [Bit Strings](/01-introductory-problems/09-bit-strings/question-bit-strings.md)
-1. Trailing Zeros
-1. Coin Piles
-1. Palindrome Reorder
+1. [Trailing Zeros](/01-introductory-problems/10-trailing-zeros/question-trailing-zeros.md)
+1. [Coin Piles](/01-introductory-problems/11-coin-piles/question-coin-piles.md)
+1. [Palindrome Reorder](/01-introductory-problems/12-palindrome-reorder/question-plindrome-reorder.md)
 1. Gray Code
 1. Tower of Hanoi
 1. Creating Strings
