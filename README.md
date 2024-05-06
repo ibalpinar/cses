@@ -41,9 +41,9 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Trailing Zeros](/01-introductory-problems/10-trailing-zeros/question-trailing-zeros.md)
 1. [Coin Piles](/01-introductory-problems/11-coin-piles/question-coin-piles.md)
 1. [Palindrome Reorder](/01-introductory-problems/12-palindrome-reorder/question-plindrome-reorder.md)
-1. Gray Code
-1. Tower of Hanoi
-1. Creating Strings
+1. [Gray Code](/01-introductory-problems/13-gray-code/question-gray-code.md)
+1. [Tower of Hanoi](/01-introductory-problems/14-tower-of-hanoi/question-tower-of-hanoi.md)
+1. [Creating Strings](/01-introductory-problems/15-creating-strings/question-creating-strings.md)
 1. Apple Division
 1. Chessboard and Queens
 1. Digit Queries
