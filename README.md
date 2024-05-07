@@ -44,10 +44,10 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Gray Code](/01-introductory-problems/13-gray-code/question-gray-code.md)
 1. [Tower of Hanoi](/01-introductory-problems/14-tower-of-hanoi/question-tower-of-hanoi.md)
 1. [Creating Strings](/01-introductory-problems/15-creating-strings/question-creating-strings.md)
-1. Apple Division
-1. Chessboard and Queens
-1. Digit Queries
-1. Grid Paths
+1. [Apple Division](/01-introductory-problems/16-apple-division/question-apple-division.md)
+1. [Chessboard and Queens](/01-introductory-problems/17-chessboard-and-queens/question-chessboard-and-queens.md)
+1. [Digit Queries](/01-introductory-problems/18-digit-queries/question-digit-queries.md)
+1. [Grid Paths](/01-introductory-problems/19-drid-paths/question-drid-paths.md)
 
 ## Sorting and Searching
 1. Distinct Numbers
