@@ -47,7 +47,7 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Apple Division](/01-introductory-problems/16-apple-division/question-apple-division.md)
 1. [Chessboard and Queens](/01-introductory-problems/17-chessboard-and-queens/question-chessboard-and-queens.md)
 1. [Digit Queries](/01-introductory-problems/18-digit-queries/question-digit-queries.md)
-1. [Grid Paths](/01-introductory-problems/19-drid-paths/question-drid-paths.md)
+1. [Grid Paths](/01-introductory-problems/19-grid-paths/question-grid-paths.md)
 
 ## Sorting and Searching
 1. Distinct Numbers
