@@ -50,7 +50,7 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Grid Paths](/01-introductory-problems/19-grid-paths/question-grid-paths.md)
 
 ## Sorting and Searching
-1. Distinct Numbers
+1. [Distinct Numbers](/02-sorting-and-searching/01-distinct-numbers/question-distinct-numbers.md)
 1. Apartments
 1. Ferris Wheel
 1. Concert Tickets
