@@ -6,7 +6,7 @@ You are given a list of $n$ integers, and your task is to calculate the number o
 **Input**
 
 The first input line has an integer $n$: the number of values.
-The second line has $n$ integers $x_1$, $x_2$,$\dots$, $x_n$.
+The second line has $n$ integers $x_1$, $x_2$, $\dots$ , $x_n$.
 
 **Output**
 
