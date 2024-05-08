@@ -1,4 +1,4 @@
-**Time limit:** 1.00 s
+**Time limit:** 1.00 s &nbsp;&nbsp;
 **Memory limit:** 512 MB
 
 Your task is to calculate the number of bit strings of length $n$.

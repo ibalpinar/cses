@@ -1,4 +1,4 @@
-**Time limit:** 1.00 s
+**Time limit:** 1.00 s &nbsp;&nbsp;
 **Memory limit:** 512 MB
 
 A number spiral is an infinite grid whose upper-left square has number 1. Here are the first five layers of the spiral:

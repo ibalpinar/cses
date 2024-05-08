@@ -1,4 +1,4 @@
-**Time limit:** 1.00 s
+**Time limit:** 1.00 s &nbsp;&nbsp;
 **Memory limit:** 512 MB
 
 There are 88418 paths in a $7 \times 7$ grid from the upper-left square to the lower-left square. Each path corresponds to a $48$-character description consisting of characters D (down), U (up), L (left) and R (right).

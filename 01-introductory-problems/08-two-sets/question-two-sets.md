@@ -1,4 +1,4 @@
-**Time limit:** 1.00 s
+**Time limit:** 1.00 s &nbsp;&nbsp;
 **Memory limit:** 512 MB
 
 Your task is to divide the numbers 1, 2, $\ldots$, $n$ into two sets of equal sum.

@@ -1,4 +1,4 @@
-**Time limit:** 1.00 s
+**Time limit:** 1.00 s &nbsp;&nbsp;
 **Memory limit:** 512 MB
 
 You are given all numbers between 1, 2 , $\ldots$, $n$ except one. Your task is to find the missing number.

@@ -1,4 +1,4 @@
-**Time limit:** 1.00 s
+**Time limit:** 1.00 s &nbsp;&nbsp;
 **Memory limit:** 512 MB
 
 A Gray code is a list of all $2^{n}$ bit strings of length $n$, where any two successive strings differ in exactly one bit (i.e., their Hamming distance is one).

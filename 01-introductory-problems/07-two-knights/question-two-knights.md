@@ -1,4 +1,4 @@
-**Time limit:** 1.00 s
+**Time limit:** 1.00 s &nbsp;&nbsp;
 **Memory limit:** 512 MB
 
 Your task is to count for $k$ = 1, 2, $\ldots$, $n$ the number of ways two knights can be placed on a $k$ $\times$ $k$ chessboard so that they do not attack each other.

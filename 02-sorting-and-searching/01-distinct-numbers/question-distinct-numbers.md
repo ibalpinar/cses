@@ -1,4 +1,4 @@
-**Time limit:** 1.00 s
+**Time limit:** 1.00 s &nbsp;&nbsp;
 **Memory limit:** 512 MB
 
 You are given a list of $n$ integers, and your task is to calculate the number of <i>distinct</i> values in the list.
