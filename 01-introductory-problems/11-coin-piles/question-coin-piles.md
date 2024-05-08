@@ -13,7 +13,8 @@ After this, there are $t$ lines, each of which has two integers $a$ and $b$: the
 **Output**
 
 For each test, print "YES" if you can empty the piles and "NO" otherwise.
-Constraints
+
+**Constraints**
 
  - 1 $\le$ $t$ $\le$ $10^{5}$
  - 0 $\le$ $a$, $b$ $\le$ $10^{9}$

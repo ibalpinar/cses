@@ -10,7 +10,8 @@ The only input line has a string of length $n$ consisting of characters A–Z.
 **Output**
 
 Print a palindrome consisting of the characters of the original string. You may print any valid solution. If there are no solutions, print "NO SOLUTION".
-Constraints
+
+**Constraints**
 
  - 1 $\le$ $n$ $\le$ $10^{6}$
 

@@ -11,7 +11,8 @@ The only input line has an integer $n$.
 **Output**
 
 Print $2^{n}$ lines that describe the Gray code. You can print any valid solution.
-Constraints
+
+**Constraints**
 
  - 1 $\le$ $n$ $\le$ 16
 

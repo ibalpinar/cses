@@ -9,7 +9,7 @@ On each move, you may increase the value of any element by one. What is the mini
 
 The first input line contains an integer $n$: the size of the array.
 
-Then, the second line contains $n$ integers $x_{1}$, $x_{2}$,$\ldots$, $x_{n}$: the contents of the array.
+Then, the second line contains $n$ integers $x_{1}$, $x_{2}$, $\ldots$, $x_{n}$: the contents of the array.
 
 **Output**
 
@@ -18,7 +18,6 @@ Print the minimum number of moves.
 **Constraints**
 
  - 1 $\leq$ $n$ $\leq$ 2 $\cdot$ $10^{5}$
-
  - 1 $\leq$ $x_{i}$ $\leq$ $10^{9}$
 
 **Example**

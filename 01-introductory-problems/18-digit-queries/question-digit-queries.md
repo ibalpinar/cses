@@ -7,6 +7,7 @@ Consider an infinite string that consists of all positive integers in increasing
 Your task is to process $q$ queries of the form: what is the digit at position $k$ in the string?
 
 **Input**
+
 The first input line has an integer $q$: the number of queries.
 
 After this, there are $q$ lines that describe the queries. Each line has an integer $k$: a 1-indexed position in the string.

@@ -1,7 +1,7 @@
 **Time limit:** 1.00 s
 **Memory limit:** 512 MB
 
-Your task is to divide the numbers 1, 2,$\ldots$, $n$ into two sets of equal sum.
+Your task is to divide the numbers 1, 2, $\ldots$, $n$ into two sets of equal sum.
 
 **Input**
 The only input line contains an integer $n$.

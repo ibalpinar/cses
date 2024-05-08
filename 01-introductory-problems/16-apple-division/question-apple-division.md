@@ -6,6 +6,7 @@ There are $n$ apples with known weights. Your task is to divide the apples into 
 **Input**
 
 The first input line has an integer $n$: the number of apples.
+
 The next line has $n$ integers $p_{1}$, $p_{2}$,$\dots$, $p_{n}$: the weight of each apple.
 
 **Output**

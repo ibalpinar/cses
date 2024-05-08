@@ -1,9 +1,9 @@
 **Time limit:** 1.00 s
 **Memory limit:** 512 MB
 
-Your task is to calculate the number of trailing zeros in the factorial $n$!.
+Your task is to calculate the number of trailing zeros in the factorial $n!$.
 
-For example, 20!=2432902008176640000 and it has 4 trailing zeros.
+For example, $20!$ = $2432902008176640000$ and it has $4$ trailing zeros.
 
 **Input**
 

@@ -5,9 +5,10 @@ There are 88418 paths in a $7 \times 7$ grid from the upper-left square to the l
 
 For example, the path
 
-image
+![Grid](./grid.png "Grid")
 
-corresponds to the description DRURRRRRDDDLUULDDDLDRRURDDLLLLLURULURRUULDLLDDDD.
+corresponds to the description<br />
+DRURRRRRDDDLUULDDDLDRRURDDLLLLLURULURRUULDLLDDDD.
 
 You are given a description of a path which may also contain characters ? (any direction). Your task is to calculate the number of paths that match the description.
 
