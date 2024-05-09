@@ -51,12 +51,12 @@ If you want to have fun, let's solve some algorithmic problems together.
 
 ## Sorting and Searching
 1. [Distinct Numbers](/02-sorting-and-searching/01-distinct-numbers/question-distinct-numbers.md)
-1. Apartments
-1. Ferris Wheel
-1. Concert Tickets
-1. Restaurant Customers
-1. Movie Festival
-1. Sum of Two Values
+1. [Apartments](/02-sorting-and-searching/02-apartments/question-apartments.md)
+1. [Ferris Wheel](/02-sorting-and-searching/03-ferris-wheel/question-ferris-wheel.md)
+1. [Concert Tickets](/02-sorting-and-searching/04-concert-tickets/question-concert-tickets.md)
+1. [Restaurant Customers](/02-sorting-and-searching/05-restaurant-customers/question-restaurant-customers.md)
+1. [Movie Festival](/02-sorting-and-searching/06-movie-festival/question-movie-festival.md)
+1. [Sum of Two Values](/02-sorting-and-searching/07-sum-of-two-values/question-sum-of-two-values.md)
 1. Maximum Subarray Sum
 1. Stick Lengths
 1. Missing Coin Sum
