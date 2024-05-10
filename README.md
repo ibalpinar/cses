@@ -57,7 +57,7 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Restaurant Customers](/02-sorting-and-searching/05-restaurant-customers/question-restaurant-customers.md)
 1. [Movie Festival](/02-sorting-and-searching/06-movie-festival/question-movie-festival.md)
 1. [Sum of Two Values](/02-sorting-and-searching/07-sum-of-two-values/question-sum-of-two-values.md)
-1. Maximum Subarray Sum
+1. [Maximum Subarray Sum](/02-sorting-and-searching/08-maximum-subarray-sum/question-maximum-subarray-sum.md)
 1. Stick Lengths
 1. Missing Coin Sum
 1. Collecting Numbers
