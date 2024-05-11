@@ -59,11 +59,11 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Sum of Two Values](/02-sorting-and-searching/07-sum-of-two-values/question-sum-of-two-values.md)
 1. [Maximum Subarray Sum](/02-sorting-and-searching/08-maximum-subarray-sum/question-maximum-subarray-sum.md)
 1. [Stick Lengths](/02-sorting-and-searching/09-stick-lengths/question-stick-lengths.md)
-1. Missing Coin Sum
-1. Collecting Numbers
-1. Collecting Numbers II
-1. Playlist
-1. Towers
+1. [Missing Coin Sum](/02-sorting-and-searching/10-missing-coin-sum/question-missing-coin-sum.md)
+1. [Collecting Numbers](/02-sorting-and-searching/11-collecting-numbers/question-collecting-numbers.md)
+1. [Collecting Numbers II](/02-sorting-and-searching/12-collecting-numbers-ii/question-collecting-numbers-ii.md)
+1. [Playlist](/02-sorting-and-searching/13-playlist/question-playlist.md)
+1. [Towers](/02-sorting-and-searching/14-towers/question-towers.md)
 1. Traffic Lights
 1. Josephus Problem I
 1. Josephus Problem II
