@@ -64,11 +64,11 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Collecting Numbers II](/02-sorting-and-searching/12-collecting-numbers-ii/question-collecting-numbers-ii.md)
 1. [Playlist](/02-sorting-and-searching/13-playlist/question-playlist.md)
 1. [Towers](/02-sorting-and-searching/14-towers/question-towers.md)
-1. Traffic Lights
-1. Josephus Problem I
-1. Josephus Problem II
-1. Nested Ranges Check
-1. Nested Ranges Count
+1. [Traffic Lights](/02-sorting-and-searching/15-traffic-lights/question-traffic-lights.md)
+1. [Josephus Problem I](/02-sorting-and-searching/16-josephus-problem-i/question-josephus-problem-i.md)
+1. [Josephus Problem II](/02-sorting-and-searching/17-josephus-problem-ii/question-josephus-problem-ii.md)
+1. [Nested Ranges Check](/02-sorting-and-searching/18-nested-ranges-check/question-nested-ranges-check.md)
+1. [Nested Ranges Count](/02-sorting-and-searching/19-nested-ranges-count/question-nested-ranges-count.md)
 1. Room Allocation
 1. Factory Machines
 1. Tasks and Deadlines
