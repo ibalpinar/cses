@@ -69,9 +69,9 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Josephus Problem II](/02-sorting-and-searching/17-josephus-problem-ii/question-josephus-problem-ii.md)
 1. [Nested Ranges Check](/02-sorting-and-searching/18-nested-ranges-check/question-nested-ranges-check.md)
 1. [Nested Ranges Count](/02-sorting-and-searching/19-nested-ranges-count/question-nested-ranges-count.md)
-1. Room Allocation
-1. Factory Machines
-1. Tasks and Deadlines
+1. [Room Allocation](/02-sorting-and-searching/20-room-allocation/question-room-allocation.md)
+1. [Factory Machines](/02-sorting-and-searching/21-factory-machines/question-factory-machines.md)
+1. [Tasks and Deadlines](/02-sorting-and-searching/22-tasks-and-deadlines/question-tasks-and-deadlines.md)
 1. Reading Books
 1. Sum of Three Values
 1. Sum of Four Values
