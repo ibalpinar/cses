@@ -76,15 +76,15 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Sum of Three Values](/02-sorting-and-searching/24-sum-of-three-values/question-sum-of-three-values.md)
 1. [Sum of Four Values](/02-sorting-and-searching/25-sum-of-four-values/question-sum-of-four-values.md)
 1. [Nearest Smaller Values](/02-sorting-and-searching/26-nearest-smaller-values/question-nearest-smaller-values.md)
-1. Subarray Sums I
-1. Subarray Sums II
-1. Subarray Divisibility
-1. Subarray Distinct Values
-1. Array Division
-1. Sliding Median
-1. Sliding Cost
-1. Movie Festival II
-1. Maximum Subarray Sum II
+1. [Subarray Sums I](/02-sorting-and-searching/27-subarray-sums-i/question-subarray-sums-i.md)
+1. [Subarray Sums II](/02-sorting-and-searching/28-subarray-sums-ii/question-subarray-sums-ii.md)
+1. [Subarray Divisibility](/02-sorting-and-searching/29-subarray-divisibility/question-subarray-divisibility.md)
+1. [Subarray Distinct Values](/02-sorting-and-searching/30-subarray-distinct-values/question-subarray-distinct-values.md)
+1. [Array Division](/02-sorting-and-searching/31-array-division/question-array-division.md)
+1. [Sliding Median](/02-sorting-and-searching/32-sliding-window-median/question-sliding-window-median.md)
+1. [Sliding Window Cost](/02-sorting-and-searching/33-sliding-window-cost/question-sliding-window-cost.md)
+1. [Movie Festival II](/02-sorting-and-searching/34-movie-festival-ii/question-movie-festival-ii.md)
+1. [Maximum Subarray Sum II](/02-sorting-and-searching/35-maximum-subarray-sum-ii/question-maximum-subarray-sum-ii.md)
 
 ## Dynamic Programming
 1. Dice Combinations
