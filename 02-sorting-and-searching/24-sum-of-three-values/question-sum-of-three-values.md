@@ -1,4 +1,4 @@
-**Time limit:** 1.00 s
+**Time limit:** 1.00 s &nbsp;&nbsp;
 **Memory limit:** 512 MB
 
 You are given an array of $n$ integers, and your task is to find three values (at distinct positions) whose sum is $x$.

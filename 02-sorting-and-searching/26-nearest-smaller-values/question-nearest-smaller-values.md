@@ -1,4 +1,4 @@
-**Time limit:** 1.00 s
+**Time limit:** 1.00 s &nbsp;&nbsp;
 **Memory limit:** 512 MB
 
 Given an array of $n$ integers, your task is to find for each array position the nearest position to its left having a smaller value.
