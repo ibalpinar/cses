@@ -72,10 +72,10 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Room Allocation](/02-sorting-and-searching/20-room-allocation/question-room-allocation.md)
 1. [Factory Machines](/02-sorting-and-searching/21-factory-machines/question-factory-machines.md)
 1. [Tasks and Deadlines](/02-sorting-and-searching/22-tasks-and-deadlines/question-tasks-and-deadlines.md)
-1. Reading Books
-1. Sum of Three Values
-1. Sum of Four Values
-1. Nearest Smaller Values
+1. [Reading Books](/02-sorting-and-searching/23-reading-books/question-reading-books.md)
+1. [Sum of Three Values](/02-sorting-and-searching/24-sum-of-three-values/question-sum-of-three-values.md)
+1. [Sum of Four Values](/02-sorting-and-searching/25-sum-of-four-values/question-sum-of-four-values.md)
+1. [Nearest Smaller Values](/02-sorting-and-searching/26-nearest-smaller-values/question-nearest-smaller-values.md)
 1. Subarray Sums I
 1. Subarray Sums II
 1. Subarray Divisibility
