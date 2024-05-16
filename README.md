@@ -87,7 +87,7 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Maximum Subarray Sum II](/02-sorting-and-searching/35-maximum-subarray-sum-ii/question-maximum-subarray-sum-ii.md)
 
 ## Dynamic Programming
-1. Dice Combinations
+1. [Dice Combinations](/03-dynamic-programming/01-dice-combinations/question-dice-combinations.md)
 1. Minimizing Coins
 1. Coin Combinations I
 1. Coin Combinations II
