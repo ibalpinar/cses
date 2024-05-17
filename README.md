@@ -10,6 +10,8 @@ If you would like to contribute alternative solutions to the problems, just send
 
 If you want to have fun, let's solve some algorithmic problems together.
 
+### Note to the future: This list will end in June 2025 and will enlighten at least 100 engineering students.
+
 # Summary
 
 | Category              | Solved        |
