@@ -90,8 +90,8 @@ If you want to have fun, let's solve some algorithmic problems together.
 
 ## Dynamic Programming
 1. [Dice Combinations](/03-dynamic-programming/01-dice-combinations/question-dice-combinations.md)
-1. Minimizing Coins
-1. Coin Combinations I
+1. [Minimizing Coins](/03-dynamic-programming/02-minimizing-coins/question-minimizing-coins.md)
+1. [Coin Combinations I](/03-dynamic-programming/03-coin-combinations-i/question-coin-combinations-i.md)
 1. Coin Combinations II
 1. Removing Digits
 1. Grid Paths
