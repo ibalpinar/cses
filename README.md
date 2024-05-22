@@ -95,10 +95,10 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Coin Combinations II](/03-dynamic-programming/04-coin-combinations-ii/question-coin-combinations-ii.md)
 1. [Removing Digits](/03-dynamic-programming/05-removing-digits/question-removing-digits.md)
 1. [Grid Paths](/03-dynamic-programming/06-grid-paths/question-grid-paths.md)
-1. Book Shop
-1. Array Description
-1. Counting Towers
-1. Edit Distance
+1. [Book Shop](/03-dynamic-programming/07-book-shop/question-book-shop.md)
+1. [Array Description](/03-dynamic-programming/08-array-description/question-array-description.md)
+1. [Counting Towers](/03-dynamic-programming/09-counting-towers/question-counting-towers.md)
+1. [Edit Distance](/03-dynamic-programming/10-edit-distance/question-edit-distance.md)
 1. Rectangle Cutting
 1. Money Sums
 1. Removal Game
