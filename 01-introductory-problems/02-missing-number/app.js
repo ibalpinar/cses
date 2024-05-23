@@ -7,6 +7,14 @@
  * I show an example below
  */
 
+var readline = require('readline');
+
+var r = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout,
+    terminal: false
+});
+
 var n = 8;
 var givenArray = [4, 9, 2, 8, 11, 5, 1, 10, 7, 3]; // find the number 8
 
