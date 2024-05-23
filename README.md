@@ -99,7 +99,7 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Array Description](/03-dynamic-programming/08-array-description/question-array-description.md)
 1. [Counting Towers](/03-dynamic-programming/09-counting-towers/question-counting-towers.md)
 1. [Edit Distance](/03-dynamic-programming/10-edit-distance/question-edit-distance.md)
-1. Rectangle Cutting
+1. [Rectangle Cutting](/03-dynamic-programming/11-rectangle-cutting/question-rectangle-cutting.md)
 1. Money Sums
 1. Removal Game
 1. Two Sets II
