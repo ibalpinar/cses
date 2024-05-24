@@ -100,14 +100,14 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Counting Towers](/03-dynamic-programming/09-counting-towers/question-counting-towers.md)
 1. [Edit Distance](/03-dynamic-programming/10-edit-distance/question-edit-distance.md)
 1. [Rectangle Cutting](/03-dynamic-programming/11-rectangle-cutting/question-rectangle-cutting.md)
-1. Money Sums
-1. Removal Game
-1. Two Sets II
-1. Increasing Subsequence
-1. Projects
-1. Elevator Rides
-1. Counting Tilings
-1. Counting Numbers
+1. [Money Sums](/03-dynamic-programming/12-money-sums/question-money-sums.md)
+1. [Removal Game](/03-dynamic-programming/13-removal-game/question-removal-game.md)
+1. [Two Sets II](/03-dynamic-programming/14-two-sets-ii/question-two-sets-ii.md)
+1. [Increasing Subsequence](/03-dynamic-programming/15-increasing-subsequence/question-increasing-subsequence.md)
+1. [Projects](/03-dynamic-programming/16-projects/question-projects.md)
+1. [Elevator Rides](/03-dynamic-programming/17-elevator-rides/question-elevator-rides.md)
+1. [Counting Tilings](/03-dynamic-programming/18-counting-tilings/question-counting-tilings.md)
+1. [Counting Numbers](/03-dynamic-programming/19-counting-numbers/question-counting-numbers.md)
 
 ## Graph Algorithms
 1. Counting Rooms
