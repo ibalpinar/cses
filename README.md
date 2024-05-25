@@ -110,7 +110,7 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Counting Numbers](/03-dynamic-programming/19-counting-numbers/question-counting-numbers.md)
 
 ## Graph Algorithms
-1. Counting Rooms
+1. [Counting Rooms](/04-graph-algorithms/01-counting-rooms/question-counting-rooms.md)
 1. Labyrinth
 1. Building Roads
 1. Message Route
