@@ -111,8 +111,8 @@ If you want to have fun, let's solve some algorithmic problems together.
 
 ## Graph Algorithms
 1. [Counting Rooms](/04-graph-algorithms/01-counting-rooms/question-counting-rooms.md)
-1. Labyrinth
-1. Building Roads
+1. [Labyrinth](/04-graph-algorithms/02-labyrinth/question-labyrinth.md)
+1. [Building Roads](/04-graph-algorithms/03-building-roads/question-building-roads.md)
 1. Message Route
 1. Building Teams
 1. Round Trip
