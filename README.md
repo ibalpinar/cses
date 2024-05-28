@@ -117,11 +117,11 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Building Teams](/04-graph-algorithms/05-building-teams/question-building-teams.md)
 1. [Round Trip](/04-graph-algorithms/06-round-trip/question-round-trip.md)
 1. [Monsters](/04-graph-algorithms/07-monsters/question-monsters.md)
-1. Shortest Routes I
-1. Shortest Routes II
-1. High Score
-1. Flight Discount
-1. Cycle Finding
+1. [Shortest Routes I](/04-graph-algorithms/08-shortest-routes-i/question-shortest-routes-i.md)
+1. [Shortest Routes II](/04-graph-algorithms/09-shortest-routes-ii/question-shortest-routes-ii.md)
+1. [High Score](/04-graph-algorithms/10-high-score/question-high-score.md)
+1. [Flight Discount](/04-graph-algorithms/11-flight-discount/question-flight-discount.md)
+1. [Cycle Finding](/04-graph-algorithms/12-cycle-finding/question-cycle-finding.md)
 1. Flight Routes
 1. Round Trip II
 1. Course Schedule
