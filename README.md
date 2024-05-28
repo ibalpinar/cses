@@ -113,10 +113,10 @@ If you want to have fun, let's solve some algorithmic problems together.
 1. [Counting Rooms](/04-graph-algorithms/01-counting-rooms/question-counting-rooms.md)
 1. [Labyrinth](/04-graph-algorithms/02-labyrinth/question-labyrinth.md)
 1. [Building Roads](/04-graph-algorithms/03-building-roads/question-building-roads.md)
-1. Message Route
-1. Building Teams
-1. Round Trip
-1. Monsters
+1. [Message Route](/04-graph-algorithms/04-message-route/question-message-route.md)
+1. [Building Teams](/04-graph-algorithms/05-building-teams/question-building-teams.md)
+1. [Round Trip](/04-graph-algorithms/06-round-trip/question-round-trip.md)
+1. [Monsters](/04-graph-algorithms/07-monsters/question-monsters.md)
 1. Shortest Routes I
 1. Shortest Routes II
 1. High Score
