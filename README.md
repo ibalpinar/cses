@@ -4,7 +4,7 @@ Solutions of the algorithms available on https://cses.fi/ in various languages f
 
 If you want to solve CSES problems, first open an account at https://cses.fi/register/. In this way, you can submit your solutions and see how successful your solutions are by ensuring that they pass unit tests.
 
-The languages that I’m thinking of using Javascript. Maybe C/C++, Java or Python in the future. Sometimes I may use more than one language to solve some problems that I think will make a difference.
+The languages that I’m thinking of using Javascript. Maybe C/C++ in the future. Sometimes I may use more than one language to solve some problems that I think will make a difference.
 
 If you would like to contribute alternative solutions to the problems, just send a PR to the 'dev' branch. After an interactive discussion, I'll accept your solutions into the repository.
 
